@@ -1,7 +1,7 @@
 # Simple Slots Turn Generator Command in Lumen PHP framework
 
 output the required format only,
-less dynamic setups or unrequired on this stage dependencied
+less dynamic setups or unrequired on this stage dependencies
 
 ### file location: 
 ```
