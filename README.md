@@ -1,4 +1,5 @@
-# Simple Slots Turn Generator Command in Lumen PHP framework
+# PHP
+# Slots Turn Generator Command in Lumen
 
 output the required format only,
 less dynamic setups or unrequired on this stage dependencies
