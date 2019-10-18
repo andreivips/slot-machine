@@ -42,7 +42,7 @@ class Slot extends Command
             5 => 10,
         ];
         $min_match = min(array_keys($match_and_return)); // minimum consecutive matched symbols count as value
-        $board_size = 15;
+        $board_size = 15; // as 5x3 :)
         $board = [];
         for ($board_cell = 0; $board_cell < $board_size; $board_cell++) {
             $symbol = random_int(0, $max_symbol);
