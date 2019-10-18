@@ -52,3 +52,5 @@ php artisan slots:play
     "total_win": 20
   }
 ```
+
+©
