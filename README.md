@@ -1,7 +1,5 @@
-# PHP
-# Slots Turn Generator Command in Lumen
-
-output the required format only,
+# Slot Machine spin generator
+# as a command file for Laravel framework
 less dynamic setups or unrequired on this stage dependencies
 
 ### file location: 
